@@ -40,6 +40,14 @@ Before starting, ensure you have the following installed and set up:
 
     > **📧 Important One-Time Check:** > If you click the link and get an error, or if the repository doesn't generate immediately, **check your email inbox**.  
     > GitHub sometimes requires you to accept an invitation to join the organization first. Look for an invite link in the email address you used to sign up for GitHub. This is a one-time event; once you accept the invite, you can try the link again.
+    > 
+    > Anther option is to-do the following :
+        >  Go to your GitHub Home.
+        > Click your profile picture, then select Settings > Organizations in the left sidebar.
+        > Look for the classroom's organization and click Accept on any pending invitations.
+    > 
+    Here is a video on how to fix the issue :
+         [![Watch the GitHub Desktop Tutorial](https://img.youtube.com/vi/P4pnn6u7ShU/0.jpg)](https://www.youtube.com/watch?v=P4pnn6u7ShU)
 
 ### Phase 2: Clone the Repository
 Now that your repository exists on the cloud, you need to get a copy on your computer. You can do this in one of two ways:
